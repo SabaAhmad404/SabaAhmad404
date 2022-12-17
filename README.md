@@ -16,6 +16,5 @@
 <a href="https://www.facebook.com/profile.php?id=100023964162678&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SABA AHMAD" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saba.ahmed47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saba" height="30" width="40" /></a>
   
-  <a href="https://www.linkedin.com/in/saba-ahmad-97b938244/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107524451/208247216-2a32a09b-b2ae-454e-b3e6-b96986add5fa.png
-" alt="LINKDIN" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saba-ahmad-97b938244/" target="blank"><img align="center" src="https://dribbble.com/shots/1970346-Major-websites-Icon-Set-Free-Sketch" alt="LINKDIN" height="30" width="40" /></a>
 </p>

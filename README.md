@@ -1,10 +1,11 @@
 ### Hi, I'm  Saba 👋 👩🏾‍💻
+<h3 align="center"> I'm a full-Stack web-Developer currently enrolled to Microverse School.I like Problem solving and, I spent my spare time with coding.I like to collaborate on new projects. Open to new opportunities.</h3>
 
 - 🔭 I’m currently working  on [TO-DO list](https://github.com/SabaAhmad786/Todo-list)
 - 🌱 I’m currently learning  javascript
 - 👯 I’m looking to collaborate on  projects
--  👨‍💻 All of my projects are available at [Portfolio](https://github.com/SabaAhmad786/final-portofolio)
-- -💬 Ask me about **JavaScript, HTML, CSS**
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/SabaAhmad786/final-portofolio)
+- 💬 Ask me about **JavaScript, HTML, CSS**
 - 💬 Ask me about anything [here](https://github.com/SabaAhmad786/SabaAhmad786/issues)
 - 📫 How to reach me   **sabaahmad895@gmail.com**
 - ⚡ Fun fact:   reading ,traveling , music.

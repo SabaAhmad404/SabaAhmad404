@@ -1,6 +1,12 @@
 ### Hi, I'm  Saba 👋 👩🏾‍💻
+<img src="https://raw.githubusercontent.com/SabaAhmad786/SabaAhmad786/master/resources/banner.png" alt="Hello world">
 
-<h3 align="center"> I'm a full-Stack web-Developer currently enrolled to Microverse School.I like Problem solving and, I spent my spare time with coding.I like to collaborate on new projects. Open to new opportunities.</h3>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
+</p>
+## About me
+<h3 align="center"> I'm a full-Stack web-Developer currently enrolled to Microverse School and currently learning JS.I like Problem solving and, I spent my spare time with coding.I like to collaborate on new projects. Open to new opportunities.</h3>
 
 - 🔭 I’m currently working  on [TO-DO list](https://github.com/SabaAhmad786/Todo-list)
 - 🌱 I’m currently learning  javascript

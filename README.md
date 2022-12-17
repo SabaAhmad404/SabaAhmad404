@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
 </p>
 <h3 align="left">About me:</h3>
-<h5 align="center"> I'm a full-stack web developer currently enrolled in Microverse. I love coding and Music, and I am open to job opportunitiesh5>
+<h5 align="center"> I'm a full-stack web developer currently enrolled in Microverse. I love coding and Music, and I am open to job opportunities<h5>
 
 - 🔭 I’m currently working  on [TO-DO list](https://github.com/SabaAhmad786/Todo-list)
 - 🌱 I’m currently learning  javascript

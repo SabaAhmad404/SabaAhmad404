@@ -7,7 +7,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
 </p>
-## About me
+### About me
 <h5 align="center"> I'm a full-Stack web-Developer currently enrolled in Microverse School and currently learning JS.I like Problem solving and, I spent my spare time with coding.I like to collaborate on new projects. Open to new opportunities.</h5>
 
 - 🔭 I’m currently working  on [TO-DO list](https://github.com/SabaAhmad786/Todo-list)

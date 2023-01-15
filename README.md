@@ -7,7 +7,9 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <br>
-
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
+</p>
 
 <!-- <p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
@@ -16,9 +18,6 @@
 </p> -->
 
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
-</p>
 <!-- <h3 align="left">About me:</h3> -->
 <!-- <h5 align="center"> I'm a full-stack web developer currently enrolled in Microverse. I love coding and Music, and I am open to job opportunities<h5> -->
 
@@ -33,7 +32,6 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<br>
 <br>
 <p align="center">
 <a href="https://twitter.com/SabaAhmad00?t=R4ZkZRyAmgXFgjtWaOXFAg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitbh02837778" height="30" width="40" /></a>
@@ -52,9 +50,9 @@
 <!--   <h3 align="le">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sabaahmad83"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sabaahmad" /></a></p><br><br><br> -->
 <br>
-<br>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SabaAhmad404&show_icons=true&locale=en&layout=compact" alt="sabaahmad" /></p>
-<br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SabaAhmad404&show_icons=true&locale=en" alt="sabaahmad" /></p>
-<br>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SabaAhmad404&" alt="saba ahamd" /></p>

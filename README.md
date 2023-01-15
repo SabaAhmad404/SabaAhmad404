@@ -5,11 +5,12 @@
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-<br>
-<p align="center"> 
   <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
 </p>
+<br>
+<!-- <p align="center"> 
+  <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
+</p> -->
 
 <!-- <p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>

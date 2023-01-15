@@ -7,7 +7,7 @@
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 <br>
-<br>
+
 
 <!-- <p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
@@ -17,7 +17,6 @@
 
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/SabaAhmad786/count.svg" />
 </p>
 <!-- <h3 align="left">About me:</h3> -->
